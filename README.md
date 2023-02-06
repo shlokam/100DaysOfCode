@@ -13,3 +13,4 @@
 | 9 | React | [React Use States](https://github.com/shlokam/30DaysOfReact) | React - Random Country Generator with dark theme toggle button |
 | 10 | React | [React Conditional Rendering](https://github.com/shlokam/30DaysOfReact) | React - Season Selector with changing background and image with conditional rendering |
 | 11 | React | [React File Structuring and Event Triggering](https://github.com/shlokam/30DaysOfReact) | React - Explored File Structing and Event Trigger - Mouse click, Button click, Keyboard Press, Form submit |
+| 12 | React | [React Form Validation](https://github.com/shlokam/30DaysOfReact) | React - Explored Form Validation |
