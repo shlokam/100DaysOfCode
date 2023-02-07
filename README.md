@@ -14,3 +14,5 @@
 | 10 | React | [React Conditional Rendering](https://github.com/shlokam/30DaysOfReact) | React - Season Selector with changing background and image with conditional rendering |
 | 11 | React | [React File Structuring and Event Triggering](https://github.com/shlokam/30DaysOfReact) | React - Explored File Structing and Event Trigger - Mouse click, Button click, Keyboard Press, Form submit |
 | 12 | React | [React Form Validation](https://github.com/shlokam/30DaysOfReact) | React - Explored Form Validation |
+| 13 | React | [React Form Validation](https://github.com/shlokam/30DaysOfReact) | React - Explored Component Life Cycles |
+
